@@ -1,0 +1,2 @@
+# Cabezas_Imbaquingo_colaborativo
+Clase proyecto colaborativo
